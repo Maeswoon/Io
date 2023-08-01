@@ -9,8 +9,7 @@ The flight computer is designed to monitor the altitude of a high-powered rocket
 <img src="media/board_v1.jpg" alt="Board v1" style="width: 200px">
 </p>
 
-*Left: PCB Designs for v1*
-*Right: v1 production board, powered on*
+*Left: PCB Designs for v1, Right: v1 production board, powered on*
 
 # Todo
 - Finish initial firmware
