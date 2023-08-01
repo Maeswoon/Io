@@ -4,15 +4,13 @@ A simple high-powered rocket altimeter and flight computer, developed for UNH SE
 # Purpose
 The flight computer is designed to monitor the altitude of a high-powered rocket, triggering ejection charges at set points in the flight profile (typically a drogue chute at apogee, and a main chute at 1000ft AGL). Additionally, the computer is meant to instrumentation data to an SD card, and transmit telemetry to a ground station over a 915MHz LoRA link provided by a RFM95W module. Firmware is currently in-progress, but the board has been fabricated, and all components besides some instruments have been installed.
 
-<figure style="width: 30%; display: inline-block;">
-<img src="media/pcb_v1.png" alt="PCB v1" style="width: 100%">
-<figcaption align="center"><b>Designs for PCB</b></figcaption>
-</figure>
+<p>
+<img src="media/pcb_v1.png" alt="PCB v1" style="width: 200px">
+<img src="media/board_v1.jpg" alt="Board v1" style="width: 200px">
+</p>
 
-<figure style="width: 30%; display: inline-block;">
-<img src="media/board_v1.jpg" alt="Board v1" style="width: 100%">
-<figcaption align="center"><b>Production board, powered on</b></figcaption>
-</figure>
+*Left: PCB Designs for v1*
+*Right: v1 production board, powered on*
 
 # Todo
 - Finish initial firmware
